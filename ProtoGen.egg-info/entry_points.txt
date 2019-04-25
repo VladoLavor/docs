@@ -1,0 +1,3 @@
+[mkdocs.plugins]
+proto-gen = plugins.protogen.protogen:ProtoGen
+

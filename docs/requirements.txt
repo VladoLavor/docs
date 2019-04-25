@@ -1,1 +1,3 @@
 mkdocs==1.0.4
+gitpython>=2.1.0
+protobuf>=3.5.0

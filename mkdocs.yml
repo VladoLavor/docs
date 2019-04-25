@@ -16,6 +16,9 @@ theme:
 extra_css:
   - css/extra.css
 
+plugins:
+  - proto-gen
+
 nav:
 - INTRODUCTION:
   - VPP-Agent: intro/agent.md

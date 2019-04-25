@@ -1,0 +1,10 @@
+README.md
+setup.py
+ProtoGen.egg-info/PKG-INFO
+ProtoGen.egg-info/SOURCES.txt
+ProtoGen.egg-info/dependency_links.txt
+ProtoGen.egg-info/entry_points.txt
+ProtoGen.egg-info/requires.txt
+ProtoGen.egg-info/top_level.txt
+plugins/protogen/__init__.py
+plugins/protogen/protogen.py
